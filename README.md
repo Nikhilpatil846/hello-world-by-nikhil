@@ -1,3 +1,3 @@
 # hello-world-by-nikhil
-for practcing githubflow and learning to update
-nikhil patil and phonne number
+for practcing purpose and ading my name and number
+nikhill patil and 22689927952
